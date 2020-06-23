@@ -1,2 +1,2 @@
 # Spellathon
-![alt text](https://github.com/SanyaNanda/Spellathon/spellathon_image.jpg)
+![Alt text](relative/path/to/spellathon_image.jpg?raw=true "Title")
