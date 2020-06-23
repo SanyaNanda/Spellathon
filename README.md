@@ -1,2 +1,2 @@
 # Spellathon
-![alt text](https://github.com/SanyaNanda/Spellathon/d34dad4f-a39c-4817-a298-34236ce61540.jpg?raw=true)
+![alt text](https://github.com/SanyaNanda/Spellathon/spellathon_image.jpg)
