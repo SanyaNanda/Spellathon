@@ -1,0 +1,5 @@
+Using Pytesseract, the OCR Library of Python to scan the text input as a string from a given image
+and then applying the code to solve the puzzle
+
+check this google colab notebook to see how it's done:
+https://colab.research.google.com/drive/1o_5IYvSUbDd4wSM7vy4j0wM4FodYZrFL?usp=sharing
